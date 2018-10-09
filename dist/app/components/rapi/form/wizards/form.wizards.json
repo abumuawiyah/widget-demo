@@ -1,0 +1,278 @@
+{
+  "form": [
+    {
+      "id": "accountDetails",
+      "value": "Account Details",
+      "label": "Account Details",
+      "items": [
+        {
+          "id": "section1",
+          "value": "section1",
+          "label": "section1",
+          "items": [
+            {
+              "id": "email",
+              "value": "aziz@gmail.com",
+              "label": "Email",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "id": "section2",
+          "value": "section2",
+          "label": "section2",
+          "items": [
+            {
+              "id": "username",
+              "value": "Azizi",
+              "label": "Username",
+              "type": "string"
+            },
+            {
+              "id": "password",
+              "value": "",
+              "label": "password",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profileInformation",
+      "value": "Profile Information",
+      "label": "Profile Information",
+      "items": [
+        {
+          "id": "section1",
+          "value": "section1",
+          "label": "section1",
+          "items": [
+            {
+              "id": "fullDisplayName",
+              "value": "Azizi Yazit",
+              "label": "Full Display Name",
+              "type": "string"
+            },
+            {
+              "id": "gender",
+              "value": "Gender",
+              "label": "Gender",
+              "type": "singleOption",
+              "items": [
+                {
+                  "id": "male",
+                  "value": "male",
+                  "label": "Male",
+                  "type": "singleOption"
+                },
+                {
+                  "id": "female",
+                  "value": "female",
+                  "label": "Female",
+                  "type": "singleOption"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "section2",
+          "value": "section2",
+          "label": "section2",
+          "items": [
+            {
+              "id": "birthDate",
+              "value": "",
+              "label": "Birth Date",
+              "type": "date"
+            }
+          ]
+        },
+        {
+          "id": "section3",
+          "value": "section3",
+          "label": "section3",
+          "items": [
+            {
+              "id": "streetAddress",
+              "value": "",
+              "label": "Street Address",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "id": "section4",
+          "value": "section4",
+          "label": "section4",
+          "items": [
+            {
+              "id": "city",
+              "value": "",
+              "label": "Street Address",
+              "type": "string"
+            },
+            {
+              "id": "state",
+              "value": "",
+              "label": "State/Province",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "id": "section5",
+          "value": "section5",
+          "label": "section5",
+          "items": [
+            {
+              "id": "country",
+              "value": "",
+              "label": "Country",
+              "type": "collection",
+              "items": [
+                {
+                  "id": "malaysia",
+                  "value": "malaysia",
+                  "label": "Malaysia",
+                  "type": "string"
+                },
+                {
+                  "id": "indonesia",
+                  "value": "indonesia",
+                  "label": "Indonesia",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "id": "zipCode",
+              "value": "",
+              "label": "Zip Code",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "id": "section6",
+          "value": "section6",
+          "label": "section6",
+          "items": [
+            {
+              "id": "profilePicture",
+              "value": "",
+              "label": "profilePicture",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "id": "section7",
+          "value": "section7",
+          "label": "section7",
+          "items": [
+            {
+              "id": "shortDescription",
+              "value": "",
+              "label": "Short Description",
+              "type": "multipleString"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "socialDetails",
+      "value": "Social Details",
+      "label": "Social Details",
+      "items": [
+        {
+          "id": "section1",
+          "value": "section1",
+          "label": "section1",
+          "items": [
+            {
+              "id": "facebook",
+              "value": "",
+              "label": "Facebook",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "id": "section2",
+          "value": "section2",
+          "label": "section2",
+          "items": [
+            {
+              "id": "twitter",
+              "value": "",
+              "label": "Twitter",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "id": "section3",
+          "value": "section3",
+          "label": "section3",
+          "items": [
+            {
+              "id": "linkedin",
+              "value": "",
+              "label": "Linkedin",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "id": "section4",
+          "value": "section4",
+          "label": "section4",
+          "items": [
+            {
+              "id": "googleplus",
+              "value": "",
+              "label": "Google+",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "id": "section5",
+          "value": "section5",
+          "label": "section5",
+          "items": [
+            {
+              "id": "website",
+              "value": "",
+              "label": "Website (URL)",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "id": "section6",
+          "value": "section6",
+          "label": "section6",
+          "items": [
+            {
+              "id": "mobilePhone",
+              "value": "",
+              "label": "Mobile Phone",
+              "type": "string"
+            },
+            {
+              "id": "whatsapp",
+              "value": "",
+              "label": "WhatsApp",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

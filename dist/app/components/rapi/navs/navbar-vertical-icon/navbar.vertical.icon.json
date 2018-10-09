@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "icon1",
+      "icon": "dashboard",
+      "label": "Dashboard",
+      "value": "dashboard"
+    },
+    {
+      "id": "icon2",
+      "icon": "tasks",
+      "label": "Assets",
+      "value": "asset"
+    },
+    {
+      "id": "icon3",
+      "icon": "usd",
+      "label": "Billing",
+      "value": "billing"
+    }
+  ]
+}

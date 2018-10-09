@@ -1,0 +1,12 @@
+{
+  "organization": {
+    "brand": {
+      "icon": {
+        "value": "glyphicon-copyright-mark",
+        "type": "font"
+      },
+      "value": "Copyright 2016 Railway Assets Corporation. All Rights Reserved"
+    }
+  },
+  "items": []
+}

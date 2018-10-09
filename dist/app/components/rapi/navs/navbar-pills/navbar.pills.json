@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "menuitem1",
+      "value": "info",
+      "label": "Maklumat Aset",
+      "type": "pill"
+    },
+    {
+      "id": "menuitem2",
+      "value": "maintenance",
+      "label": "Penyelenggaraan",
+      "type": "pill"
+    },
+    {
+      "id": "menuitem3",
+      "value": "depreciation",
+      "label": "Susut Nilai",
+      "type": "pill"
+    },
+    {
+      "id": "menuitem4",
+      "value": "hierarchy",
+      "label": "Hieraki Aset",
+      "type": "pill"
+    },
+    {
+      "id": "menuitem5",
+      "value": "project",
+      "label": "Maklumat Projek",
+      "type": "pill"
+    },
+    {
+      "id": "menuitem6",
+      "value": "tenant",
+      "label": "Maklumat Penyewa",
+      "type": "pill"
+    }
+  ]
+}

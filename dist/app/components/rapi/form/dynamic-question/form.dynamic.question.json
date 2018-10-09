@@ -1,0 +1,51 @@
+{
+  "id": "q1",
+  "label": "Tugasan Kepada",
+  "type": "collection",
+  "items": [
+    {
+      "id": "i1",
+      "value": "1",
+      "label": "Perbadanan Aset Keretapi",
+      "type": "question",
+      "answer": {
+        "id": "a1",
+        "label": "Unit",
+        "type": "collection",
+        "items": [
+          {
+            "id": "ai1",
+            "value": "1",
+            "label": "Hartanah"
+          },
+          {
+            "id": "ai2",
+            "value": "2",
+            "label": "Pembangunan"
+          },
+          {
+            "id": "ai3",
+            "value": "3",
+            "label": "Khidmat Peguam"
+          },
+          {
+            "id": "ai4",
+            "value": "4",
+            "label": "Undang-undang"
+          }
+        ]
+      }
+    },
+    {
+      "id": "i1",
+      "value": "1",
+      "label": "Agensi Lain",
+      "type": "question",
+      "answer": {
+        "id": "a1",
+        "label": "Nyatakan",
+        "type": "string"
+      }
+    }
+  ]
+}

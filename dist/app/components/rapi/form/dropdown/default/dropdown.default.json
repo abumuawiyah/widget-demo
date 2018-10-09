@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "mukim",
+      "value": "0",
+      "label": "Status Aset",
+      "type": "edited-choices",
+      "items": [
+        {
+          "id": "mukimItem1",
+          "value": "1",
+          "label": "PENERIMAAN"
+        },
+        {
+          "id": "mukimItem2",
+          "value": "2",
+          "label": "PEGEMBALIAN"
+        }
+      ]
+    },
+    {
+      "id": "assetStatus",
+      "value": "",
+      "label": "Nilai Aset",
+      "type": "edited-single"
+    }
+  ],
+  "label": "Please select"
+}

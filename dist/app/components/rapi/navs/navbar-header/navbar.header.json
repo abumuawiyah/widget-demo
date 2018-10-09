@@ -1,0 +1,13 @@
+{
+  "organization": {
+    "brand": {
+      "icon": {
+        "value": "assets/images/rac-logo-white.png",
+        "type": "image"
+      },
+      "value": "",
+      "type": ""
+    }
+  },
+  "items": []
+}

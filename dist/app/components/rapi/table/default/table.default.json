@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "id": "tr1",
+      "type": "tr",
+      "items": [
+        {
+          "id": "td1",
+          "value": "BIL0000001",
+          "label": "idBill",
+          "type": "td"
+        },
+        {
+          "id": "td2",
+          "value": "JOHN DOE",
+          "label": "customer",
+          "type": "td"
+        },
+        {
+          "id": "td3",
+          "value": "PETALING",
+          "label": "daerah",
+          "type": "td"
+        },
+        {
+          "id": "td4",
+          "value": "MYR 10,000",
+          "label": "amount",
+          "type": "td-highlight-hard"
+        },
+        {
+          "id": "td5",
+          "value": "11 FEB 2015",
+          "label": "dueDate",
+          "type": "td-highlight-light"
+        },
+        {
+          "id": "td6",
+          "value": "TERTUNGGAK",
+          "label": "outstanding",
+          "type": "td-highlight-hard"
+        }
+      ]
+    },
+    {
+      "id": "tr2",
+      "type": "tr",
+      "items": [
+        {
+          "id": "td1",
+          "value": "BIL0000002",
+          "label": "idBill",
+          "type": "td"
+        },
+        {
+          "id": "td2",
+          "value": "MARISA",
+          "label": "customer",
+          "type": "td"
+        },
+        {
+          "id": "td3",
+          "value": "PETALING",
+          "label": "daerah",
+          "type": "td"
+        },
+        {
+          "id": "td4",
+          "value": "MYR 35,500",
+          "label": "amount",
+          "type": "td-highlight-hard"
+        },
+        {
+          "id": "td5",
+          "value": "11 FEB 2015",
+          "label": "dueDate",
+          "type": "td-highlight-light"
+        },
+        {
+          "id": "td6",
+          "value": "TERTUNGGAK",
+          "label": "outstanding",
+          "type": "td-highlight-hard"
+        }
+      ]
+    },
+    {
+      "id": "tr3",
+      "type": "tr",
+      "items": [
+        {
+          "id": "td1",
+          "value": "BIL0000003",
+          "label": "idBill",
+          "type": "td"
+        },
+        {
+          "id": "td2",
+          "value": "SITI NUR",
+          "label": "customer",
+          "type": "td"
+        },
+        {
+          "id": "td3",
+          "value": "PUTRAJAYA",
+          "label": "daerah",
+          "type": "td"
+        },
+        {
+          "id": "td4",
+          "value": "MYR 1000",
+          "label": "amount",
+          "type": "td-highlight-hard"
+        },
+        {
+          "id": "td5",
+          "value": "21 JAN 2016",
+          "label": "dueDate",
+          "type": "td-highlight-light"
+        },
+        {
+          "id": "td6",
+          "value": "TERTUNGGAK",
+          "label": "outstanding",
+          "type": "td-highlight-hard"
+        }
+      ]
+    }
+  ],
+  "labels": [
+    "ID Bill",
+    "Pelanggan",
+    "Daerah",
+    "Amount",
+    "Due Date",
+    "Status"
+  ]
+}

@@ -1,0 +1,9 @@
+<table class="table table-hover">
+    <tr>
+        <th ng-repeat="item in vm.data.headers">{{item.value}}</td>
+    </tr>
+    <tr ng-repeat="tr in vm.data.rows">
+        <td>{{tr.id}}</td>
+        <td ng-click="tr.onClick($event, tr)">{{tr.value}}</td>
+    </tr>
+</table>

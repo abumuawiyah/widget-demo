@@ -1,0 +1,960 @@
+{
+    "status": "OK",
+    "message": null,
+    "data": [
+      {
+        "course_code": "561701 ",
+        "course_name": "Pengauditan Umum",
+        "enrolled": "04/12/2012",
+        "user_status": "COMPLETED",
+        "course_completion": "15/05/2013",
+        "credit": "20",
+        "total_time_spent": "01h 2m 9s"
+      },
+      {
+        "course_code": "561101",
+        "course_name": "Konnichiwa: Communicative Japanese - A First Step",
+        "enrolled": "24/04/2012",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "20",
+        "total_time_spent": "22h 16m 42s"
+      },
+      {
+        "course_code": "561109",
+        "course_name": "Mandarin Komunikasi Asas",
+        "enrolled": "13/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "22",
+        "total_time_spent": "21h 51m 6s"
+      },
+      {
+        "course_code": "561108",
+        "course_name": "Pra Asas Bahasa Arab",
+        "enrolled": "07/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "22",
+        "total_time_spent": "05h 3m 26s"
+      },
+      {
+        "course_code": "560501",
+        "course_name": "Dasar Awam Gunaan Peringkat Asas",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "22/05/2013",
+        "credit": "18",
+        "total_time_spent": "00h 55m 33s"
+      },
+      {
+        "course_code": "560502",
+        "course_name": "Pengenalan kepada Dasar-dasar Utama Kerajaan",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "14",
+        "total_time_spent": "22h 51m 54s"
+      },
+      {
+        "course_code": "560503",
+        "course_name": "Formulating Public Policy",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "18",
+        "total_time_spent": "07h 47m 31s"
+      },
+      {
+        "course_code": "561301",
+        "course_name": "Malaysia's Foreign Policy",
+        "enrolled": "24/07/2012",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "6",
+        "total_time_spent": "23h 5m 40s"
+      },
+      {
+        "course_code": "561501",
+        "course_name": "Intellectual Property in Malaysia",
+        "enrolled": "09/08/2012",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "8",
+        "total_time_spent": "04h 55m 6s"
+      },
+      {
+        "course_code": "560112",
+        "course_name": "ETOS Perkhidmatan Awam",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "8",
+        "total_time_spent": "11h 45m 48s"
+      },
+      {
+        "course_code": "561601",
+        "course_name": "Asas Kaunseling - Kemahiran Menolong",
+        "enrolled": "27/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "03/09/2013",
+        "credit": "12",
+        "total_time_spent": "22h 30m 41s"
+      },
+      {
+        "course_code": "561201",
+        "course_name": "Coaching and Mentoring",
+        "enrolled": "15/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "8",
+        "total_time_spent": "04h 41m 21s"
+      },
+      {
+        "course_code": "561204",
+        "course_name": "Latihan untuk Jurulatih",
+        "enrolled": "15/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "4",
+        "total_time_spent": "18h 15m 39s"
+      },
+      {
+        "course_code": "561205",
+        "course_name": "Letter Writing",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "20/05/2013",
+        "credit": "6",
+        "total_time_spent": "15h 49m 35s"
+      },
+      {
+        "course_code": "561206",
+        "course_name": "Minutes of Meeting",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "6",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "561208",
+        "course_name": "Pemantapan Budaya Inovasi dan Kumpulan Inovatif Kreatif (KIK)",
+        "enrolled": "15/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "8",
+        "total_time_spent": "17h 46m 13s"
+      },
+      {
+        "course_code": "561209",
+        "course_name": "Pengurusan Mesyuarat Berkesan & Penulisan Minit Mesyuarat Berkualiti",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "4",
+        "total_time_spent": "04h 23m 15s"
+      },
+      {
+        "course_code": "560103",
+        "course_name": "Creative Thinking and Problem Solving",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "18",
+        "total_time_spent": "06h 13m 20s"
+      },
+      {
+        "course_code": "560104",
+        "course_name": "Kepimpinan Integrasi",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "12/05/2014",
+        "credit": "8",
+        "total_time_spent": "21h 45m 52s"
+      },
+      {
+        "course_code": "560106",
+        "course_name": "Leadership (Intermediate) Version 2",
+        "enrolled": "15/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "8",
+        "total_time_spent": "00h 14m 58s"
+      },
+      {
+        "course_code": "560107",
+        "course_name": "Learning Organisation",
+        "enrolled": "15/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "15/05/2013",
+        "credit": "22",
+        "total_time_spent": "00h 0m 1s"
+      },
+      {
+        "course_code": "560108",
+        "course_name": "Pengurusan Islam",
+        "enrolled": "15/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "15/05/2013",
+        "credit": "10",
+        "total_time_spent": "19h 55m 54s"
+      },
+      {
+        "course_code": "560109",
+        "course_name": "Pengurusan Konflik",
+        "enrolled": "15/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "16",
+        "total_time_spent": "01h 0m 27s"
+      },
+      {
+        "course_code": "560111",
+        "course_name": "Strategic Management - Balance Score Card (BSC)",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "23/05/2013",
+        "credit": "8",
+        "total_time_spent": "03h 43m 56s"
+      },
+      {
+        "course_code": "560401",
+        "course_name": "Pengurusan Perniagaan",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "14",
+        "total_time_spent": "05h 37m 53s"
+      },
+      {
+        "course_code": "560304",
+        "course_name": "Pengurusan Kewangan (Asas)",
+        "enrolled": "17/05/2012",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "16",
+        "total_time_spent": "01h 31m 8s"
+      },
+      {
+        "course_code": "560305 ",
+        "course_name": "Pengurusan Kewangan Awam",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "8",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "560801",
+        "course_name": "Malaysia Organic Scheme Standard (SOM)",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "22/05/2013",
+        "credit": "4",
+        "total_time_spent": "20h 12m 12s"
+      },
+      {
+        "course_code": "560802",
+        "course_name": "Skim Amalan Ladang Baik Malaysia (SALM)",
+        "enrolled": "15/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "15/05/2013",
+        "credit": "8",
+        "total_time_spent": "17h 48m 44s"
+      },
+      {
+        "course_code": "560701",
+        "course_name": "Amalan 5S Berkesan",
+        "enrolled": "07/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "21/06/2013",
+        "credit": "12",
+        "total_time_spent": "06h 43m 29s"
+      },
+      {
+        "course_code": "560702",
+        "course_name": "Best Practices and Success Factors in Project Management",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "4",
+        "total_time_spent": "13h 20m 59s"
+      },
+      {
+        "course_code": "560601",
+        "course_name": "Biodiversity Management and Conservation",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "20/05/2013",
+        "credit": "12",
+        "total_time_spent": "16h 54m 46s"
+      },
+      {
+        "course_code": "560602",
+        "course_name": "Kesejahteraan Persekitaran dan Perancangan Bandar",
+        "enrolled": "17/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "20/05/2013",
+        "credit": "10",
+        "total_time_spent": "17h 3m 5s"
+      },
+      {
+        "course_code": "560901",
+        "course_name": "Pra Persaraan",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "16",
+        "total_time_spent": "18h 6m 37s"
+      },
+      {
+        "course_code": "561001",
+        "course_name": "Case Writing (International)",
+        "enrolled": "16/05/2013",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "8",
+        "total_time_spent": "04h 45m 36s"
+      },
+      {
+        "course_code": "561002",
+        "course_name": "Introduction to Writing Case Studies",
+        "enrolled": "16/05/2013",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "8",
+        "total_time_spent": "05h 23m 33s"
+      },
+      {
+        "course_code": "561003",
+        "course_name": "Kajian Kemungkinan",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "8",
+        "total_time_spent": "22h 24m 55s"
+      },
+      {
+        "course_code": "561004",
+        "course_name": "Research Methodology",
+        "enrolled": "23/11/2011",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "30",
+        "total_time_spent": "22h 24m 49s"
+      },
+      {
+        "course_code": "561005",
+        "course_name": "Statistical Analysis and Data Management",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "30",
+        "total_time_spent": "04h 45m 59s"
+      },
+      {
+        "course_code": "561401",
+        "course_name": "Dasar Teknologi Hijau",
+        "enrolled": "17/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "4",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "561402",
+        "course_name": "Green Data Centre",
+        "enrolled": "17/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "22/05/2013",
+        "credit": "4",
+        "total_time_spent": "20h 32m 11s"
+      },
+      {
+        "course_code": "561403",
+        "course_name": "Renewable Energy, Energy Efficiency and Green Building",
+        "enrolled": "17/05/2013",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "00h 22m 23s"
+      },
+      {
+        "course_code": "560201",
+        "course_name": "Database Fundamentals",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "12",
+        "total_time_spent": "09h 32m 37s"
+      },
+      {
+        "course_code": "560202",
+        "course_name": "ICT Strategic Planning (Basic)",
+        "enrolled": "17/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "23/01/2014",
+        "credit": "4",
+        "total_time_spent": "20h 11m 16s"
+      },
+      {
+        "course_code": "560217",
+        "course_name": "Introduction to IT Governance",
+        "enrolled": "25/01/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "15/05/2013",
+        "credit": "10",
+        "total_time_spent": "06h 24m 8s"
+      },
+      {
+        "course_code": "560203",
+        "course_name": "Introduction to Software Quality Assurance",
+        "enrolled": "15/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "8",
+        "total_time_spent": "18h 18m 14s"
+      },
+      {
+        "course_code": "560216",
+        "course_name": "Introduction to Systems Development Life Cycle and Systems Development Methodologies",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "4",
+        "total_time_spent": "00h 30m 5s"
+      },
+      {
+        "course_code": "560210",
+        "course_name": "Microsoft Office Excel 2007",
+        "enrolled": "13/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "15/05/2013",
+        "credit": "24",
+        "total_time_spent": "07h 18m 17s"
+      },
+      {
+        "course_code": "560211 ",
+        "course_name": "Microsoft Office PowerPoint 2007",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "23/05/2013",
+        "credit": "18",
+        "total_time_spent": "21h 54m 22s"
+      },
+      {
+        "course_code": "560212",
+        "course_name": "Microsoft Office Word 2007",
+        "enrolled": "17/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "18",
+        "total_time_spent": "01h 33m 30s"
+      },
+      {
+        "course_code": "560213",
+        "course_name": "OpenOffice.org",
+        "enrolled": "16/05/2013",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "30",
+        "total_time_spent": "20h 12m 4s"
+      },
+      {
+        "course_code": "560219",
+        "course_name": "Panduan Mudah Microsoft Access 2010",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "16",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "560220",
+        "course_name": "Pengenalan Asas Juruteknik Komputer",
+        "enrolled": "20/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "22/05/2013",
+        "credit": "8",
+        "total_time_spent": "00h 55m 18s"
+      },
+      {
+        "course_code": "560214",
+        "course_name": "Pengenalan kepada Keselamatan ICT",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "4",
+        "total_time_spent": "00h 38m 44s"
+      },
+      {
+        "course_code": "560215",
+        "course_name": "Pengenalan kepada Pengurusan Pusat Data",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "4",
+        "total_time_spent": "01h 30m 42s"
+      },
+      {
+        "course_code": "560218",
+        "course_name": "Pengenalan kepada Pensijilan ISO/IEC 27001:2007 ISMS",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "10",
+        "total_time_spent": "05h 2m 30s"
+      },
+      {
+        "course_code": "561704",
+        "course_name": "Panduan Menjawab Soalan Pematuhan myGRiC",
+        "enrolled": "29/04/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "16/05/2013",
+        "credit": "30",
+        "total_time_spent": "18h 54m 19s"
+      },
+      {
+        "course_code": "561705",
+        "course_name": "Pengenalan Asas Pemeriksaan Dokumen",
+        "enrolled": "17/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "2",
+        "total_time_spent": "20h 33m 35s"
+      },
+      {
+        "course_code": "561703",
+        "course_name": "Penggunaan Aplikasi MySPATA (Modul Pendaftaran) - Aset Bangunan",
+        "enrolled": "16/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "20/05/2013",
+        "credit": "24",
+        "total_time_spent": "18h 22m 3s"
+      },
+      {
+        "course_code": "561702",
+        "course_name": "Pengumpulan Data Aset Tak Alih (PeDATA) - Aset Bangunan",
+        "enrolled": "17/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "14",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "561706",
+        "course_name": "Penilaian Outcome",
+        "enrolled": "17/05/2013",
+        "user_status": "COMPLETED",
+        "course_completion": "17/05/2013",
+        "credit": "10",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "560704",
+        "course_name": "Fundamental of Project Management",
+        "enrolled": "17/06/2014",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "30",
+        "total_time_spent": "03h 10m 27s"
+      },
+      {
+        "course_code": "562002",
+        "course_name": "Tanggungjawab dan Peranan Pegawai (Peraturan Pegawai Awam-Pelantikan, Kenaikan Pangkat dan Penamatan)",
+        "enrolled": "25/01/2017",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "8",
+        "total_time_spent": "11h 34m 23s"
+      },
+      {
+        "course_code": "561218",
+        "course_name": "Pengurusan Jenazah (Asas)",
+        "enrolled": "03/07/2014",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "18",
+        "total_time_spent": "03h 13m 20s"
+      },
+      {
+        "course_code": "561220",
+        "course_name": "Pengurusan Fail dan Rekod",
+        "enrolled": "19/12/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "20",
+        "total_time_spent": "03h 51m 0s"
+      },
+      {
+        "course_code": "562201",
+        "course_name": "Rekabentuk Pencahayaan",
+        "enrolled": "22/11/2016",
+        "user_status": "COMPLETED",
+        "course_completion": "22/11/2016",
+        "credit": "8",
+        "total_time_spent": "23h 23m 27s"
+      },
+      {
+        "course_code": "",
+        "course_name": "Kit Penerangan GST",
+        "enrolled": "22/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "0",
+        "total_time_spent": "13h 44m 56s"
+      },
+      {
+        "course_code": "561710",
+        "course_name": "Audit Dalam: Persekitaran Berkualiti (5S)",
+        "enrolled": "20/01/2017",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "18",
+        "total_time_spent": "00h 13m 22s"
+      },
+      {
+        "course_code": "561711",
+        "course_name": "Leadership and Organisational Management",
+        "enrolled": "29/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "22",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "561222",
+        "course_name": "Penyeliaan Berkesan",
+        "enrolled": "22/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "14",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "560114",
+        "course_name": "Introduction to Futures Thinking and Scenario Planning (FTSP)",
+        "enrolled": "06/12/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "14",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0037",
+        "course_name": "Auditing for Internal Control and Risk Assessment",
+        "enrolled": "22/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "13h 39m 24s"
+      },
+      {
+        "course_code": "EZA0043",
+        "course_name": "Leadership Essentials: Leading with Emotional Intelligence",
+        "enrolled": "29/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0046",
+        "course_name": "Creating and Maintaining a Positive Work Environment",
+        "enrolled": "06/12/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "00h 0m 38s"
+      },
+      {
+        "course_code": "EZA0048",
+        "course_name": "Generating Creative and Innovative Ideas: Maximizing Team Creativity",
+        "enrolled": "11/10/2018",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0049",
+        "course_name": "Team Dynamics",
+        "enrolled": "22/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "16",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0051",
+        "course_name": "Customer-Focused Management",
+        "enrolled": "11/10/2018",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "20",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0053",
+        "course_name": "Developing the Strategic Thinking Skill of Seeing the Big Picture",
+        "enrolled": "11/10/2018",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0058",
+        "course_name": "Anger Management Essentials: Managing and Controlling Anger",
+        "enrolled": "22/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "13h 7m 6s"
+      },
+      {
+        "course_code": "EZA0059",
+        "course_name": "Business Writing: Know Your Readers and Your Purpose",
+        "enrolled": "06/12/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "06h 54m 3s"
+      },
+      {
+        "course_code": "EZA0060",
+        "course_name": "Business Writing: How to Write Clearly and Concisely",
+        "enrolled": "11/10/2018",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0061",
+        "course_name": "Communicating during Difficult Times",
+        "enrolled": "28/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "4",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0064",
+        "course_name": "The Role of Ethics in Project Management",
+        "enrolled": "22/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "14",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0066",
+        "course_name": "Cloud Computing Fundamentals: Storing and Managing Cloud Data",
+        "enrolled": "28/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "16",
+        "total_time_spent": "15h 26m 6s"
+      },
+      {
+        "course_code": "EZA0067",
+        "course_name": "Cloud Computing Fundamentals: Virtualization and Data Centers",
+        "enrolled": "12/02/2017",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "12",
+        "total_time_spent": "10h 59m 53s"
+      },
+      {
+        "course_code": "EZA0071",
+        "course_name": "HTML5 Graphics and Canvas",
+        "enrolled": "11/10/2018",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "16",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0072",
+        "course_name": "Advanced HTML5",
+        "enrolled": "22/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "16",
+        "total_time_spent": "05h 46m 51s"
+      },
+      {
+        "course_code": "EZA0075",
+        "course_name": "Fundamental Methods for Data Science in R",
+        "enrolled": "27/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "20",
+        "total_time_spent": "00h 0m 15s"
+      },
+      {
+        "course_code": "EZA0102",
+        "course_name": "Pengurusan Harta Pusaka Kecil Di Malaysia ",
+        "enrolled": "22/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "2",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0103",
+        "course_name": "Kaedah Pembahagian Harta Pusaka Kecil di Malaysia",
+        "enrolled": "20/01/2017",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "2",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0105",
+        "course_name": "Perizaban di bawah Kanun Tanah Negara (KTN)",
+        "enrolled": "05/04/2017",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "1",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0107",
+        "course_name": "Lesen Pendudukan Sementara di bawah Kanun Tanah Negara (KTN)",
+        "enrolled": "29/11/2016",
+        "user_status": "COMPLETED",
+        "course_completion": "29/11/2016",
+        "credit": "1",
+        "total_time_spent": "17h 35m 25s"
+      },
+      {
+        "course_code": "EZA0137",
+        "course_name": "Garis Panduan Mengendalikan Gangguan Seksual Di Tempat Kerja Dalam Perkhidmatan Awam",
+        "enrolled": "11/10/2018",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "1",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0117",
+        "course_name": "Pemahaman Piawaian Perakaunan Sektor Awam Malaysia (MPSAS 9 & 23)",
+        "enrolled": "06/12/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "2",
+        "total_time_spent": "03h 37m 45s"
+      },
+      {
+        "course_code": "ECA0016",
+        "course_name": "Data Centre: Cleaning Practices",
+        "enrolled": "11/10/2018",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "1",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "ECA0015",
+        "course_name": "Data Centre: Maintenance ",
+        "enrolled": "11/10/2018",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "1",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "ECA0022",
+        "course_name": "Introduction to Big Data, Data Analytics & Data Science (Part 1)",
+        "enrolled": "06/12/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "1",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0139",
+        "course_name": "Akrab Care",
+        "enrolled": "15/12/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "1",
+        "total_time_spent": "22h 0m 45s"
+      },
+      {
+        "course_code": "EEA0002",
+        "course_name": "Peranan Ketua Jabatan dan Penyelia dalam Pengurusan Tatatertib Perkhidmatan Awam",
+        "enrolled": "23/12/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "2",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "ECA0021",
+        "course_name": "Introduction to Project Risk Management (Part 2)",
+        "enrolled": "23/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "2",
+        "total_time_spent": "02h 3m 29s"
+      },
+      {
+        "course_code": "EZA0115",
+        "course_name": "Hazard Identification, Risk Assessment & Risk Control Part I",
+        "enrolled": "21/12/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "2",
+        "total_time_spent": "06h 3m 44s"
+      },
+      {
+        "course_code": "EZA0097",
+        "course_name": "Community Policing Bahagian I: Pengenalan",
+        "enrolled": "28/11/2016",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "1",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0099",
+        "course_name": "Community Policing Bahagian III: Pendekatan",
+        "enrolled": "11/10/2018",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "1",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "EZA0092",
+        "course_name": "Pemahaman Tatacara Jenayah Mahkamah Syariah: Pra Bicara (Bahagian I)",
+        "enrolled": "12/02/2017",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "1",
+        "total_time_spent": "00h 0m 0s"
+      },
+      {
+        "course_code": "561102",
+        "course_name": "24/7 English Pre-Intermediate I (Part 1) (Ditamatkan tawaran)",
+        "enrolled": "08/03/2013",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "80",
+        "total_time_spent": "01h 24m 45s"
+      },
+      {
+        "course_code": "561106 ",
+        "course_name": "24/7 Business English I (Part 1) (Ditamatkan tawaran)",
+        "enrolled": "07/05/2013",
+        "user_status": "IN PROGRESS",
+        "course_completion": "",
+        "credit": "80",
+        "total_time_spent": "20h 16m 49s"
+      }
+    ]
+  }

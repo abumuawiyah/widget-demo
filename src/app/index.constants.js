@@ -3,7 +3,7 @@
   'use strict';
 
   angular
-    .module('rapi')
+    .module('epsaui')
   
     .constant('moment', moment);
 })();

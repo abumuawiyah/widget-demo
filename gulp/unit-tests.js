@@ -16,7 +16,7 @@ function runTests (singleRun, done) {
   });
 }
 
-gulp.task('rapi', ['scripts'], function(done) {
+gulp.task('epsaui', ['scripts'], function(done) {
   runTests(true, done);
 });
 

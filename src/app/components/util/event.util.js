@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('rapi')
+    .module('epsaui')
     .factory('eventUtil', eventUtil);
 
   /** @ngInject */

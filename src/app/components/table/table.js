@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('rapi')
+    .module('epsaui')
     .directive('tableWidget', tableWidget);
 
   /** @ngInject */
@@ -16,7 +16,9 @@
       restrict: 'A',
       templateUrl: templateUrl,
       scope: {
-          data: '='
+          specs: '=',
+          data: '=',
+          callback: '='
       },
       controller: TableWidgetController,
       controllerAs: 'vm',
@@ -29,7 +31,7 @@
 
     /** @ngInject */
     function TableWidgetController($scope) {
-
+      $scope.noop = angular.noop;
     }
   }
 

@@ -34,11 +34,11 @@ function browserSyncInit(baseDir, browser) {
    * For more details and option, https://github.com/chimurai/http-proxy-middleware/blob/v0.0.5/README.md
    */
 
-   server.middleware = proxyMiddleware('/rails', {
-       target: {
-        port: '13080'
-       }
-   });
+  //  server.middleware = proxyMiddleware('/$$$$$', {
+  //      target: {
+  //       port: '13080'
+  //      }
+  //  });
 
   browserSync.instance = browserSync.init({
     startPath: '/',

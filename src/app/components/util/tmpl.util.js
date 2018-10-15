@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('rapi')
+    .module('epsaui')
     .factory('tmplUtil', tmplUtil);
 
   /** @ngInject */

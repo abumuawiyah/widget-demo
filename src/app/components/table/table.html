@@ -1,9 +1,25 @@
 <table class="table table-hover">
     <tr>
-        <th ng-repeat="item in vm.data.headers">{{item.value}}</td>
+        <th ng-repeat="item in vm.specs">{{item.value}}</td>
     </tr>
-    <tr ng-repeat="tr in vm.data.rows">
-        <td>{{tr.id}}</td>
-        <td ng-click="tr.onClick($event, tr)">{{tr.value}}</td>
+    <tr ng-repeat="row in vm.data">
+        <td ng-repeat="item in vm.specs" ng-switch on="item.type">
+            <div ng-switch-when="icon">
+                <ng-include  
+                    ng-init="row = row; widget = item; template = 'app/components/table/partials/icon.html';"
+                    src="template = item.templateUrl ? item.templateUrl : template">
+                </ng-include>
+            </div>
+            <div ng-switch-when="label">
+                <ng-include  
+                    ng-init="row = row; widget = item; template = 'app/components/table/partials/label.html';"
+                    src="template = item.templateUrl ? item.templateUrl : template">
+                </ng-include>
+            </div>
+            </ng-include>
+            <div ng-switch-default>
+                {{row[item.id]}}
+            </div>
+        </td>
     </tr>
 </table>

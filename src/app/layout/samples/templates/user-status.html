@@ -1,0 +1,4 @@
+<div>
+    <span ng-click="(widget.callback || noop)($event, row, widget)" ng-if="row.user_status === 'COMPLETED'" class="label label-success">{{row[widget.id]}}</span>
+    <span ng-click="(widget.callback || noop)($event, row, widget)" ng-if="row.user_status === 'IN PROGRESS'" class="label label-warning">{{row[widget.id]}}</span>                      
+</div>

@@ -2,15 +2,12 @@
   'use strict';
 
   angular
-    .module('rapi', [
+    .module('epsaui', [
       'ngAnimate', 
-      'ngCookies', 
-      'ngTouch', 
       'ngSanitize', 
       'ngResource', 
       'ui.router', 
-      'tc.chartjs',
-      'pascalprecht.translate'
+      'tc.chartjs'
   ]);
 
 })();
